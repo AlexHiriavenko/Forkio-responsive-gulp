@@ -8,6 +8,8 @@ Distribution of duties and responsibilities:
 -   melnikviktor82 - sections: header, testimonials; the logic of the header section on js.
 -   ma_rch - sections: editor, features, pricing; creating repository branches.
 
+https://alexhiriavenko.github.io/pet-project-forkio/
+
 Additional information:
 
 1. Deploy the project - run the npm i command in the terminal
