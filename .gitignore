@@ -2,10 +2,10 @@
 
 # dependencies
 /node_modules
-/dist
+# /dist
 
-/index.html
-version.json
+# /index.html
+# version.json
 /.pnp
 .pnp.js
 # package-lock.json
