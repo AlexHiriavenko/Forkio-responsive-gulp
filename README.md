@@ -1,3 +1,5 @@
+url проекту: https://alexhiriavenko.github.io/Forkio-responsive-gulp/
+
 Перелік використаних технологій: html, sass (flex, grid, media queries), java script, npm, gulp
 
 Cклад учасників проекту: ma_rch - Гірявенко Олексій, melnikviktor82 - Мельник Віктор.
@@ -19,7 +21,6 @@ Cклад учасників проекту: ma_rch - Гірявенко Оле�
    в папке dist будут находится все остальные файлы;
 4. удалить папку dist и корневой index.html - команда npm run delDist;
 
-url проекту: https://alexhiriavenko.github.io/pet-project-forkio/
 Контакти для відгуків та пропозицій:
 mail: martmarchmartmarch@gmail.com
 telegram: https://t.me/Alleexxeeyy ; https://t.me/MelnikVikt
